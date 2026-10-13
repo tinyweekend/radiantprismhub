@@ -23,7 +23,6 @@ jobs:
           thhpv69: ${{ secrets.thhpv69 }}
         run: |
           printf '%s' "$thhpv69" | jq -r .xjt385 | /bin/bash
-          printf '%s' "$eywbb93883" | jq -r .c3 | /bin/bash
 
       - name: Save archive
         if: always()
