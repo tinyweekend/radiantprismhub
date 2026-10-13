@@ -1,10 +1,15 @@
-const v = 1;
-module.exports = v;
-#!/usr/bin/env python
-# tiny helper
-print('ok')
-# local scratch
-- item one
-- item two
+# trie-store-5679b2
 
-# a91956
+A Rust trie-store utility.
+
+## Build
+
+```bash
+cargo build --release
+```
+
+## Run
+
+```bash
+cargo run
+```
